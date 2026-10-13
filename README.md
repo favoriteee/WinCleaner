@@ -10,7 +10,7 @@ A simple, fast, and powerful `.bat` script to deep clean system junk, clear temp
 * **Auto-UAC:** Automatically requests Administrator privileges to ensure all system files are cleaned successfully.
 
 ## 🛠 How to use it?
-1. Download the `cleaner.bat` file (or pack it into a ZIP archive).
+1. Download the `WinCleaner.bat` file (or pack it into a ZIP archive).
 2. Right-click the file and select **Run as Administrator** (or just double-click it, and it will ask for rights automatically).
 3. Press any key in the console to start the optimization.
 4. Once completed, your PC will be free of unnecessary system clutter!
